@@ -1,8 +1,8 @@
 ##
   <div align="center">
     <a href="https://github.com/NoHup-lgtm">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHup-lgtm&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NoHup-lgtm&theme=vue-dark&show_icons=true&hide_border=false&count_private=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoHup-lgtm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NoHup-lgtm&theme=vue-dark&show_icons=true&hide_border=true&count_private=false"/>
   </div>
 
 ##
