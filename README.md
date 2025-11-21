@@ -11,6 +11,7 @@
 	<img src="https://skillicons.dev/icons?i=ts">
 	<img src="https://skillicons.dev/icons?i=py">
 	<img src="https://skillicons.dev/icons?i=java">
+	<img src="https://skillicons.dev/icons?i=rust">
 	<img src="https://skillicons.dev/icons?i=nodejs">
 	<img src="https://skillicons.dev/icons?i=react">
 	<img src="https://skillicons.dev/icons?i=next">
