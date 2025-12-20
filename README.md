@@ -26,21 +26,20 @@ Currently based in Brazil 🇧🇷, open for global freelance contracts.
 	<img src="https://skillicons.dev/icons?i=git,githubactions" />
 </div>
 
-
 ---
 
 ### 📌 Featured Projects (Production Ready)
 
-#### 1. [Hiby3 Workflow - Enterprise SaaS System](LINK_DO_REPO_HIBY3_AQUI)
+#### 1. [Hiby3 Workflow - Enterprise SaaS System](https://github.com/NoHup-lgtm/hiby3-workflow)
 A complete SaaS workflow management system featuring role-based security and containerized deployment.
 * **Tech:** Java 21, Spring Boot, PostgreSQL, JWT Auth, Docker.
 * **Key Features:**
     * **RBAC Security:** Granular access control for Admins, Managers, and Employees.
     * **Audit System:** Full tracking of user actions for compliance.
     * **Infrastructure:** Automated deployment with Docker/Podman scripts.
-* *Check the [Architecture Docs](LINK_PARA_PASTA_DOCS) to see the engineering design.*
+* *Check the [Architecture Docs](https://github.com/NoHup-lgtm/hiby3-workflow/tree/main/docs) to see the engineering design.*
 
-#### 2. [Serverless Event Processor](LINK_DO_REPO_MERCADOLIVRE_AQUI)
+#### 2. [Serverless Event Processor](https://github.com/NoHup-lgtm/Arthur_MercadoLivre)
 An event-driven architecture designed to process high-throughput data streams efficiently.
 * **Tech:** Python, AWS Lambda, AWS SAM, SQS.
 * **Key Features:**
