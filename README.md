@@ -26,7 +26,6 @@ Currently based in Brazil 🇧🇷, open for global freelance contracts.
 	<img src="https://skillicons.dev/icons?i=git,githubactions" />
 </div>
 
-*(Organizei seus ícones por categoria para parecer mais profissional: Linguagens -> Frameworks -> Infra -> Banco)*
 
 ---
 
